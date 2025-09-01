@@ -99,7 +99,7 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatsalgandhi83&show_icons=true&theme=radical" alt="Vatsal's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsalgandhi83&show_icons=true&theme=radical" alt="Vatsal's GitHub stats" width="39.2%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalgandhi83&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
