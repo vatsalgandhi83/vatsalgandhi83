@@ -82,6 +82,14 @@ Here are some of the key technologies I work with:
   </tr>
 </table>
 
+### Core Competencies
+- **Languages & Backend:** TypeScript, Node.js, Microservices, Distributed Systems, Event-Driven Architecture, API Design, Message Queues (RabbitMQ)
+- **Cloud & DevOps:** CI/CD Pipelines, Infrastructure as Code (IaC), Containerization, Observability (AWS CloudWatch)
+- **Machine Learning:** Model Fine-Tuning, Vector Databases (Pinecone), TensorFlow, PyTorch
+- **Development Practices:** Agile Methodologies, Test-Driven Development (TDD), Object-Oriented Programming (OOP)
+
+
+
 ---
 
 ### 🚀 Featured Projects
